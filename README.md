@@ -6,5 +6,10 @@
 #### 3) Для побудови графіків та візуалізації даних, наприклад, для відображення типів відправлених повідомлень (текст, аудіо, відео), типів чатів (групові, приватні, канали), кількості повідомлень в різний час доби або на тлі кількості повідомлень від кожного учасника чату та інші
 
 ### Деякі приклади візуалізацій:
-
 ![Message types](https://github.com/n1kitka/telegram_homework/assets/98713485/8c49851b-752b-4962-a30c-f667f9f98887)
+
+![Message in weeks](https://github.com/n1kitka/telegram_homework/assets/98713485/98eda2dc-e154-435c-aecb-09ecce5fad09)
+
+![Who writes more](https://github.com/n1kitka/telegram_homework/assets/98713485/b080f5e3-ed4f-4907-a209-35d079d77394)
+
+![Daynightmessages](https://github.com/n1kitka/telegram_homework/assets/98713485/09d2e154-74f4-4f19-b518-bcf1db83b768)
